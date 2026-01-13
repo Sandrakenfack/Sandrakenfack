@@ -1,5 +1,5 @@
 # Moi, c'est Sandra KENFACK DONGMO
-### Ingénieure Cloud & Infrastructure | 📊 Project Manager (PMP®)
+### Ingénieure Cloud & Infrastructure |  Project Manager (PMP®)
 
 Je suis une **Ingénieure IT** spécialisée dans l'architecture des systèmes et l'optimisation des infrastructures Cloud. Alliant expertise technique (AWS/Azure) et rigueur en gestion de projet, j'ai piloté des environnements critiques et des budgets stratégiques (200 K€+) pour garantir performance et sécurité.
 
@@ -29,7 +29,7 @@ Je suis une **Ingénieure IT** spécialisée dans l'architecture des systèmes e
 - **Focus** : Audit, Conseil, PCA/PRA, Cybersécurité.
 - [Voir le dossier technique](https://sandrakenfack.github.io/projet1.pdf)
 
-### 🤖 [Installation d'un Assistant IA (Démo Vidéo)](https://sandrakenfack.github.io/#assistant-ia)
+###  [Installation d'un Assistant IA (Démo Vidéo)](https://sandrakenfack.github.io/#assistant-ia)
 *Automatisation intelligente et interaction IA.*
 - [▶️ Regarder la démonstration](https://sandrakenfack.github.io/projet4.mp4)
 
