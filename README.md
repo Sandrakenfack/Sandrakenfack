@@ -50,4 +50,4 @@ Je suis une **Ingénieure IT** spécialisée dans l'architecture des systèmes e
 ## Me contacter
 - **LinkedIn** : [Mon profil professionnel](https://www.linkedin.com/in/sandra-kenfack-dongmo-48b8411a6)
 - **Portfolio Web** : [sandrakenfack.github.io](https://sandrakenfack.github.io/)
-- **📍 Localisation** : Alsace / Mobile France
+- **📍Localisation** : Alsace / Mobile France
