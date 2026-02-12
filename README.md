@@ -1,4 +1,4 @@
-#  Moi, c'est Sandra KENFACK DONGMO
+#  Moi, c'est Sandra Léonce K.
 ### Ingénieure Cloud & Infrastructure | Project Manager (PMP®)
 
 Je suis une **Ingénieure IT** spécialisée dans l'architecture des systèmes et l'optimisation des infrastructures Cloud. Alliant expertise technique (AWS/Azure) et rigueur en gestion de projet, j'ai piloté des environnements critiques et des budgets stratégiques (200 K€+) pour garantir performance et sécurité.
